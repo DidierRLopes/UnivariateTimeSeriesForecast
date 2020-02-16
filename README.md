@@ -1,3 +1,1 @@
-Tells a bit about whats being done
-- to be completed
-PUTA
+This code was developed with co-autorship with Filipe Roberto de Jesus Ramos (https://ciencia.iscte-iul.pt/authors/filipe-roberto-de-jesus-ramos/cv) for his PhD thesis entitled: "Modeling and Forecasting of Time-Series: A data science approach that compares classic methodologies with deep learning methodologies"
