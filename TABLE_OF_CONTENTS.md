@@ -1,13 +1,14 @@
  TABLE OF CONTENTS
 
-——— ExploratoryDataAnalysis ———
+————————————————— ExploratoryDataAnalysis —————————————————
 - Imports and Defines
 - Data Inspection
 - Data Visualization
 - Data Analysis
 - Hypothesis Test
 
-——— ARIMA & SARIMA ——— 
+
+————————————————————— ARIMA & SARIMA ————————————————————— 
 - Imports and Defines
   - Imports
   - Define Functions
@@ -44,7 +45,7 @@
   - Model Prediction Overview
 
 
-——— ExponenTialSmoothing ———
+————————————————— ExponenTialSmoothing —————————————————
 - Imports and Defines
   - Imports
   - Define Functions
@@ -79,7 +80,8 @@
 - Model Prediction
   - Model Prediction Overview
   
-——— DeepNeuralNetwork (& DNN_ourApproach) ———
+  
+————————————————— DeepNeuralNetwork (& DNN_ourApproach) —————————————————
 - Imports and Defines
   - Imports
   - Define Functions
