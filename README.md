@@ -83,7 +83,7 @@ The contents of this repository can be seen below:
   - Model Prediction Overview
   
   
-————————————————— DeepNeuralNetwork (& DNN_ourApproach) —————————————————
+——————————— DeepNeuralNetwork (& DNN_OurApproach) ———————————
 - Imports and Defines
   - Imports
   - Define Functions
