@@ -1,6 +1,6 @@
 # Univariate Time Series Forecast
 
-This study was developed with Filipe Roberto Ramos (https://ciencia.iscte-iul.pt/authors/filipe-roberto-de-jesus-ramos/cv) for his phD thesis entitled "Data Science in the Modeling and Forecasting of Financial timeseries: from Classic methodologies to Deep Learning". Submitted in 2021 to Instituto Universitário de Lisboa - ISCTE Business School, Lisboa, Portugal.
+This study was developed with Filipe Roberto Ramos (https://ciencia.iscte-iul.pt/authors/filipe-roberto-de-jesus-ramos/cv) for his phD thesis entitled "Data Science in the Modeling and Forecasting of Financial Timeseries: from Classic methodologies to Deep Learning". Submitted in 2021 to Instituto Universitário de Lisboa - ISCTE Business School, Lisboa, Portugal.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -18,18 +18,16 @@ This study was developed with Filipe Roberto Ramos (https://ciencia.iscte-iul.pt
   <li><a href="#Citation">Citation</a></li>
 </ol>
 
-This code was developed with co-autorship with Filipe Roberto de Jesus Ramos (https://ciencia.iscte-iul.pt/authors/filipe-roberto-de-jesus-ramos/cv) for his PhD thesis entitled: "Modeling and Forecasting of Time-Series: A data science approach that compares classic methodologies with deep learning methodologies"
+## Notebooks
 
-The contents of this repository can be seen below:
-
-## ExploratoryDataAnalysis
+### ExploratoryDataAnalysis
 * Imports and Defines
 * Data Inspection
 * Data Visualization
 * Data Analysis
 * Hypothesis Test
 
-## ARIMA and SARIMA 
+### ARIMA and SARIMA 
 * Imports and Defines
   * Imports
   * Define Functions
@@ -66,7 +64,7 @@ The contents of this repository can be seen below:
   * Model Prediction Overview
 
 
-## ExponenTialSmoothing
+### ExponenTialSmoothing
 * Imports and Defines
   * Imports
   * Define Functions
@@ -102,7 +100,7 @@ The contents of this repository can be seen below:
   * Model Prediction Overview
   
   
-## DeepNeuralNetwork
+### DeepNeuralNetwork
 And **DNN_OurApproach**
 
 * Imports and Defines
